@@ -1,0 +1,24 @@
+[06-Sep-2025 22:21:03 America/Fortaleza] PHP Warning:  require(/home2/luis5548/miotalk.com.br/includes/config.php): Failed to open stream: No such file or directory in /home2/luis5548/miotalk.com.br/bootstrap.php on line 34
+[06-Sep-2025 22:21:03 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/luis5548/miotalk.com.br/includes/config.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home2/luis5548/miotalk.com.br/bootstrap.php:34
+Stack trace:
+#0 /home2/luis5548/miotalk.com.br/bootloader.php(11): require()
+#1 /home2/luis5548/miotalk.com.br/index.php(11): require('/home2/luis5548...')
+#2 {main}
+  thrown in /home2/luis5548/miotalk.com.br/bootstrap.php on line 34
+[20-Oct-2025 23:27:30 America/Fortaleza] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home2/luis5548/miotalk.com.br/index.php on line 550
+[20-Oct-2025 23:27:31 America/Fortaleza] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home2/luis5548/miotalk.com.br/index.php on line 550
+[20-Oct-2025 23:29:11 America/Fortaleza] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home2/luis5548/miotalk.com.br/index.php on line 550
+[20-Oct-2025 23:29:13 America/Fortaleza] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home2/luis5548/miotalk.com.br/index.php on line 550
+[20-Oct-2025 23:29:17 America/Fortaleza] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home2/luis5548/miotalk.com.br/index.php on line 550
+[20-Oct-2025 23:29:18 America/Fortaleza] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home2/luis5548/miotalk.com.br/index.php on line 550
+[04-Nov-2025 11:43:14 America/Fortaleza] PHP Warning:  Undefined array key "do" in /home2/luis5548/miotalk.com.br/api.php on line 11
+[07-Nov-2025 14:54:25 America/Fortaleza] PHP Warning:  Undefined array key "do" in /home2/luis5548/miotalk.com.br/api.php on line 11
+[09-Nov-2025 06:33:45 America/Fortaleza] PHP Warning:  Undefined array key "do" in /home2/luis5548/miotalk.com.br/api.php on line 11
+[10-Nov-2025 22:58:03 America/Fortaleza] PHP Warning:  Undefined array key "do" in /home2/luis5548/miotalk.com.br/api.php on line 11
+[12-Nov-2025 04:02:58 America/Fortaleza] PHP Warning:  Undefined array key "do" in /home2/luis5548/miotalk.com.br/api.php on line 11
+[14-Nov-2025 01:16:52 America/Fortaleza] PHP Warning:  Undefined array key "do" in /home2/luis5548/miotalk.com.br/api.php on line 11
+[20-Nov-2025 08:08:18 America/Fortaleza] PHP Warning:  Undefined array key "do" in /home2/luis5548/miotalk.com.br/api.php on line 11
+[20-Nov-2025 08:08:28 America/Fortaleza] PHP Warning:  Undefined array key "do" in /home2/luis5548/miotalk.com.br/api.php on line 11
+[25-Nov-2025 14:44:52 America/Fortaleza] PHP Warning:  Undefined array key "do" in /home2/luis5548/miotalk.com.br/api.php on line 11
+[25-Nov-2025 14:44:57 America/Fortaleza] PHP Warning:  Undefined array key "do" in /home2/luis5548/miotalk.com.br/api.php on line 11
+[03-Dec-2025 15:03:37 America/Fortaleza] PHP Warning:  Undefined array key "do" in /home2/luis5548/miotalk.com.br/api.php on line 11
